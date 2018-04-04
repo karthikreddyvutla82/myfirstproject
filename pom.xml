@@ -142,7 +142,7 @@
     <version>2.0.9</version>
     <configuration>
         <deploymentType>cloudhub</deploymentType>
-        <muleVersion>3.8.5</muleVersion>
+        <muleVersion>3.9.0</muleVersion>
 		<username>Studio321</username>
 		<password>Studio123</password>
 		<redeploy>true</redeploy>
